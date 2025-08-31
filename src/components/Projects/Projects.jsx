@@ -45,6 +45,11 @@ function Projects() {
       <h1 id="para">2+ YEARS EXPERIENCED IN PROJECTS</h1>
       <div className="slider">
         <Card2
+          title="REAL TIME CODE EDITOR"
+          image={code}
+          link=" https://real-time-code-editor-git-main-as6119552-gmailcoms-projects.vercel.app/"
+        />
+        <Card2
           title="TEXT TO AI IMAGE GENERATOR"
           image={aiimage}
           link="https://text-to-ai-image-generator.onrender.com/"
@@ -53,11 +58,6 @@ function Projects() {
           title="AI POWERED CHATBOT"
           image={aichat}
           link="https://ai-powered-chatbot-five.vercel.app/"
-        />
-        <Card2
-          title="REAL TIME CODE EDITOR"
-          image={code}
-          link=" https://real-time-code-editor-git-main-as6119552-gmailcoms-projects.vercel.app/"
         />
       </div>
     </div>
