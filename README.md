@@ -6,7 +6,7 @@ Deployed on **Vercel** 🚀.
 ---
 
 ## 📸 Live Demo
-👉 [https://my-portfolio-website-ecru-pi.vercel.app/]
+👉 [https://its-abhishek-portfolio.netlify.app/]
 
 ---
 
