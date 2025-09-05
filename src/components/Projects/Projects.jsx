@@ -5,6 +5,7 @@ import "./Projects.css";
 import code from "../../assets/CodeEditor.png";
 import aiimage from "../../assets/AiImage.png";
 import aichat from "../../assets/Screenshot (30).png";
+import expense from "../../assets/Screenshot (37).png";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
@@ -58,6 +59,11 @@ function Projects() {
           title="AI POWERED CHATBOT"
           image={aichat}
           link="https://ai-powered-chatbot-five.vercel.app/"
+        />
+        <Card2
+          title="EXPENSE MANAGEMENT SYSTEM"
+          image={expense}
+          link="https://expense-app-deployment.onrender.com/"
         />
       </div>
     </div>
