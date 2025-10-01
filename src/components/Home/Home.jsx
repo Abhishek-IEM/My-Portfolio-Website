@@ -1,7 +1,7 @@
 import React from "react";
 import "./Home.css";
 import man from "../../assets/github_profile.webp";
-import resume from "../../assets/MyResume.pdf";
+import resume from "../../assets/Abhishek_Sharma_Resume.pdf";
 import { Typewriter } from "react-simple-typewriter";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";

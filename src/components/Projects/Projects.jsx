@@ -6,6 +6,7 @@ import code from "../../assets/CodeEditor.png";
 import aiimage from "../../assets/AiImage.png";
 import aichat from "../../assets/Screenshot (30).png";
 import expense from "../../assets/Screenshot (37).png";
+import job from "../../assets/Screenshot (40).png";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
@@ -45,6 +46,11 @@ function Projects() {
     <div id="projects">
       <h1 id="para">2+ YEARS EXPERIENCED IN PROJECTS</h1>
       <div className="slider">
+      <Card2
+          title="JOBMATCH EVALUATOR"
+          image={job}
+          link=" https://jobmatch-ai-f1yg.onrender.com/"
+        />
         <Card2
           title="REAL TIME CODE EDITOR"
           image={code}
